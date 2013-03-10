@@ -1,0 +1,3 @@
+#include "poney.h"
+
+:wq
